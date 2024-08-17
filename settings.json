@@ -1,0 +1,150 @@
+{
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.iconTheme": "symbols",
+    "workbench.editor.titleScrollbarSizing": "large",
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.revealIfOpen": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.startupEditor": "none",
+    "workbench.panel.defaultLocation": "right",
+    "workbench.colorCustomizations": {
+        "editor.wrapIndent": "none",
+        "titleBar.inactiveBackground": "#42b8aa99",
+        "titleBar.inactiveForeground": "#15202b99",
+        "tab.activeBorder": "#ff0000",
+        "tab.unfocusedActiveBorder": "#000000"
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.settings.applyToAllProfiles": [
+        "window.title"
+    ],
+    "workbench.reduceMotion": "on",
+    "workbench.colorTheme": "Blowtorch",
+    "workbench.editor.splitSizing": "distribute",
+    "workbench.editor.tabSizingFixedMaxWidth": 180,
+    "workbench.editor.tabSizingFixedMinWidth": 38,
+    "workbench.editor.enablePreview": false,
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.guides.indentation": false,
+    "editor.lineNumbersMinChars": 0,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.foldingHighlight": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorWidth": 2,
+    "editor.mouseWheelZoom": true,
+    "editor.folding": false,
+    "editor.glyphMargin": false,
+    "editor.experimentalWhitespaceRendering": "font",
+    "editor.detectIndentation": false,
+    "editor.stickyTabStops": true,
+    "editor.wordWrapColumn": 30,
+    "editor.padding.top": 5,
+    "editor.letterSpacing": 0.1,
+    "editor.wordWrap": "on",
+    "editor.lineHeight": 21,
+    "editor.accessibilitySupport": "off",
+    "editor.comments.insertSpace": false,
+    "editor.fontLigatures": true,
+    "editor.rulers": [
+        100],
+        "editor.fontSize": 13,
+        "editor.inlineSuggest.enabled": true,
+        "editor.suggestSelection": "first",
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.tabs.enableAnimation": false,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.osx": "fish",
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.profiles.osx": {
+        "rosetta": {
+            "args": [
+                "-x86_64",
+                "zsh",
+                "-l"
+            ],
+            "overrideName": true,
+            "path": "arch"
+        }
+    },
+    "window.newWindowDimensions": "maximized",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}",
+    "window.commandCenter": false,
+    "window.restoreFullscreen": true,
+    "peacock.affectTitleBar": false,
+    "germanScroll.armin": 5,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left",
+        "vsls-jupyter-notebook": "left"
+    },
+    "scrollkey.line1": 1,
+    "scrollkey.line2": 30,
+    "scrollkey.line3": 60,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.analysis.typeCheckingMode": "basic",
+    "files.trimTrailingWhitespace": true,
+    "settingsSync.ignoredExtensions":[],
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "hediet.vscode-drawio.resizeImages": null,
+    "lldb.library": "/Library/Developer/CommandLineTools/Library/PrivateFrameworks/LLDB.framework/Versions/A/LLDB",
+    "lldb.launch.expressions": "native",
+    "update.mode": "manual",
+    "apc.imports": [
+        "file:///Users/mateuszormianek/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ],
+    "debug.showInlineBreakpointCandidates": false,
+    "gitlens.graph.minimap.dataType": "lines",
+    "git.branchWhitespaceChar": ">",
+    "diffEditor.wordWrap": "on",
+    "accessibility.dimUnfocused.opacity": 0.5,
+    "inlineChat.showGutterIcon": "always",
+    "errorLens.enabled": false,
+    "explorer.compactFolders": true,
+    "explorer.decorations.badges": false,
+    "explorer.openEditors.visible": 1,
+    "screencastMode.verticalOffset": 5,
+    "git.openRepositoryInParentFolders": "never",
+    "supermaven.enable": {
+        "*": true
+    },
+    "supermaven.allowGitignore": true,
+    "symbols.hidesExplorerArrows": true,
+    "indenticator.hover.highlight": false,
+    "indenticator.inner.hover.highlight": false,
+    "indenticator.showIndentGuide": false,
+    "breadcrumbs.enabled": false,
+    "apc.electron": {
+        "titleBarStyle": "customButtonsOnHover"
+    },
+    "apc.header": {
+        "height": 26
+    },
+    "apc.sidebar.titlebar": {
+        "height": 28
+    },
+    "projectManager.git.baseFolders": [
+        "~/Desktop/Programming"
+    ],
+    "window.nativeTabs": true,
+    "window.zoomLevel": 1,
+    "workbench.statusBar.visible": false,
+    "terminal.integrated.fontFamily": "Hack Nerd Font, Consola Mono, Fira Code",
+
+  }
